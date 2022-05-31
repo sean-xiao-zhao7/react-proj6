@@ -1,0 +1,14 @@
+{
+    "name": "react-proj6",
+    "version": "1.0.0",
+    "description": "Redux test",
+    "main": "redux.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "JPX",
+    "license": "ISC",
+    "dependencies": {
+        "redux": "^4.2.0"
+    }
+}
